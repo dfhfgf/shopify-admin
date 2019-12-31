@@ -54,7 +54,7 @@
 >   > 完成了[Drafts](https://dfhfgf.github.io/shopify-admin/#/orders/draft_orders)、[All orders](https://dfhfgf.github.io/shopify-admin/#/orders/all-orders)、[Abandoned checkouts](https://dfhfgf.github.io/shopify-admin/#/orders/abandoned_checkouts)、[New draft order](https://dfhfgf.github.io/shopify-admin/#/orders/draft_orders/new)页面。  
 
 >蔡志琪:  
->   >原型制作([原型地址](https://vvapsc.axshare.com)  密码：aa123456
+>   >完成原型制作([原型地址](https://vvapsc.axshare.com)  密码：aa123456
 
 >罗鑫:  
 >   >完成了[Customers](https://dfhfgf.github.io/shopify-admin/#/customers)页面。  
@@ -63,7 +63,7 @@
 >   >添加测试数据，测试已实现的功能  
 
 >余文玲:  
->   >基本完成原型的制作  
+>   >完成原型的制作  
 
 ### 每周进度
 
@@ -73,7 +73,7 @@
 >   > 完成了[New draft order](https://dfhfgf.github.io/shopify-admin/#/orders/draft_orders/new)页面。优化之前所做页面的视觉效果.完成了[Abandoned checkouts](https://dfhfgf.github.io/shopify-admin/#/orders/abandoned_checkouts)页面的实现数据过滤功能、分页功能，调整之前写过的代码，增强了代码复用性，加快类似页面的开发。添加了左菜单栏的简体中文和English两种语言的国际化。完成了[Drafts](https://dfhfgf.github.io/shopify-admin/#/orders/draft_orders)页面
 
 > 蔡志琪:  
->   > 基本完成原型的制作([原型地址](https://vvapsc.axshare.com)  密码：aa123456
+>   > 基本完成原型的制作([原型地址](https://vvapsc.axshare.com))  密码：aa123456
 
 > 余文玲:  
 >   > 基本完成原型的制作   
