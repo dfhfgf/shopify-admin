@@ -60,17 +60,17 @@
 
 | 步骤 | 正常操作 | 预计效果 | 异常操作 | 预计效果 | 图片 |
 | --- | --- | --- | --- | --- | --- |
-| 所有订单 | 点击 | 跳转到所有订单界面 | 无 | 进入所有订单界面 | ![](https://dfhfgf.github.io/shopify-admin/python/1.png) |
-| All reset和More filter | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://dfhfgf.github.io/shopify-admin/python/2.png) |
-| Status | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://dfhfgf.github.io/shopify-admin/python/3.png) |
-| Payment status 和 Fulfillment status | 选择以下的条件（可以多个选择） | 显示按条件筛选后的订单 | 随便输入 | 找不到订单 | ![](https://github.com/85208520/shopify-admin/blob/zengde/python/3.png) |
-| 下一页按钮 | 点击下一页 | 跳转到下一页 | 持续点击下一页 | 一直跳到下一页直至最后一页 | ![](https://dfhfgf.github.io/shopify-admin/python/4.png) |
-| new order | 点击 | 跳转到新建草订单 | 持续点击 | 无 | ![](https://dfhfgf.github.io/shopify-admin/python/5.png) |
-| 草稿 | 点击 | 跳转到草稿界面 | 一直点 | 界面不动 | ![](https://dfhfgf.github.io/shopify-admin/python/6.png) |
+| 所有订单 | 点击 | 跳转到所有订单界面 | 无 | 进入所有订单界面 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/1.png) |
+| All reset和More filter | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/2.png) |
+| Status | 选一个 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/3.png) |
+| Payment status 和 Fulfillment status | 选择以下的条件（可以多个选择） | 显示按条件筛选后的订单 | 随便输入 | 找不到订单 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/4.png) |
+| 下一页按钮 | 点击下一页 | 跳转到下一页 | 持续点击下一页 | 一直跳到下一页直至最后一页 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/5.png) |
+| new order | 点击 | 跳转到新建草订单 | 持续点击 | 无 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/6.png) |
+| 草稿 | 点击 | 跳转到草稿界面 | 一直点 | 界面不动 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/7.png) |
 | 筛选条件 | 选择 | 显示筛选后的订单 | 无 | 不显示筛选后的订单，显示全部订单 | ![]() |
-| Find or create| 点击Search | 选择create  a new customer或选择已有用户 | 无 | 新建用户成功  | ![](https://dfhfgf.github.io/shopify-admin/python/8.png) |
-| 弃单 | 点击 | 跳转到弃单页 | 持续直点 | 界面不动 | ![](https://dfhfgf.github.io/shopify-admin/python/9.png) |
-| 筛选条件 | 选择 | 显示筛选后的弃单 | 无 | 不显示筛选后的弃单，显示全部弃单 | ![](https://dfhfgf.github.io/shopify-admin/python/10.png) |
+| Find or create| 点击Search | 选择create  a new customer或选择已有用户 | 无 | 新建用户成功  | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/8.png) |
+| 弃单 | 点击 | 跳转到弃单页 | 持续直点 | 界面不动 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/9.png) |
+| 筛选条件 | 选择 | 显示筛选后的弃单 | 无 | 不显示筛选后的弃单，显示全部弃单 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/10.png) |
 
 #### 4.1.2
 
@@ -78,7 +78,7 @@
 
 | 步骤 | 正常操作     | 预计效果     | 异常操作     | 预计效果     | 图片               |
 | ---- | ------------ | ------------ | ------------ | ------------ | ------------------ |
-| 1    | 产品     | 点击产品显示列表  | 一直点击产品 | 列表不停缩放 | ![](https://dfhfgf.github.io/shopify-admin/python/11.png) |
+| 1    | 产品     | 点击产品显示列表  | 一直点击产品 | 列表不停缩放 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/11.png) |
 
 #### 4.1.3
 
@@ -86,12 +86,9 @@
 
 | 步骤     | 正常操作 | 预计效果               | 异常操作     | 预计效果     | 图片               |
 | -------- | -------- | ---------------------- | ------------ | ------------ | ------------------ |
-| 1        | 点击顾客 | 跳转顾客界面           | 一直点击顾客 | 界面不变     | ![](https://dfhfgf.github.io/shopify-admin/python/12.png) |
-| 添加顾客 | 点击     | 跳转到填写顾客资料界面 | 无           | 显示添加界面 | ![](https://dfhfgf.github.io/shopify-admin/python/13.png) |
+| 1        | 点击顾客 | 跳转顾客界面           | 一直点击顾客 | 界面不变     | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/12.png) |
+| 添加顾客 | 点击     | 跳转到填写顾客资料界面 | 无           | 显示添加界面 | ![](https://github.com/dfhfgf/shopify-admin/blob/master/python/13.png) |
 
-#### 4.1.3
-
-    [自动化测试代码所在文件](https://github.com/85208520/shopify-admin/tree/zengde/python)
 
 ### 5 建议
 经过这次的项目测试，学到了很多，也发现了很多问题。对于未来项目的测试，会有一些建议：
